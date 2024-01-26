@@ -1,1 +1,2 @@
-x = 1+1
+def mult (a,b):
+    return a*b
